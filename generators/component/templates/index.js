@@ -1,0 +1,3 @@
+// @flow
+import <%= componentName %> from './<%= componentName %>'
+export default <%= componentName %>

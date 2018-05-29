@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Richard B. Kaufman-López",
+      "authorEmail": "richardbkaufman@gmail.com",
+      "authorUrl": "https://twitter.com/sparragus"
+    }
+  }
+}
