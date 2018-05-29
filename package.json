@@ -1,5 +1,5 @@
 {
-  "name": "generator-sparragus-generator-react",
+  "name": "@sparragus/generator-react",
   "version": "0.0.0",
   "description": "React generators",
   "homepage": "https://github.com/sparragus",
