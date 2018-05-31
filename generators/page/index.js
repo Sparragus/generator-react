@@ -53,7 +53,7 @@ module.exports = class extends Generator {
   }
 
   writing () {
-    this.destinationRoot(`src/pages/${this.ctx.pageName}`)
+    this.destinationRoot(`./${this.ctx.pageName}`)
 
     this._makeFolders()
     this._copyTemplates()

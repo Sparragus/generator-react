@@ -1,8 +1,6 @@
 // @flow
 import React from 'react'
-import cx from 'classnames'
 
-import styles from './<%= pageName %>.scss'
 import <%= pageName %> from './<%= pageName %>'
 
 type <%= pageName %>ContainerProps = {
