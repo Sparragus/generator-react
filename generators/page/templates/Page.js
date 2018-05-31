@@ -19,3 +19,5 @@ function <%= pageName %> (props: <%= pageName %>Props) {
     </div>
   )
 }
+
+export default <%= pageName %>

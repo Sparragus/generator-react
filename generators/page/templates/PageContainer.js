@@ -17,4 +17,4 @@ class <%= pageName %>Container extends React.Component<<%= pageName %>ContainerP
   }
 }
 
-default export <%= pageName %>Container
+export default <%= pageName %>Container
