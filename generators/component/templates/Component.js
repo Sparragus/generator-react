@@ -19,3 +19,5 @@ function <%= componentName %> (props: <%= componentName %>Props) {
     </div>
   )
 }
+
+export default <%= componentName %>
