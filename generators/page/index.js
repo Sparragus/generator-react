@@ -69,7 +69,6 @@ module.exports = class extends Generator {
 
     this._copyTpl('index.js', 'index.js');
     this._copyTpl('index.async.js', 'index.async.js');
-    this._copyTpl('route.json', 'route.json');
     this._copyTpl('PageContainer.js', `${pageName}Container.js`);
     this._copyTpl('Page.js', `${pageName}.js`);
     this._copyTpl('Page.scss', `${pageName}.scss`);
