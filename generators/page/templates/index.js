@@ -1,3 +1,3 @@
 // @flow
-import <%= pageName %> from './<%= pageName %>Container'
-export default <%= pageName %>
+import <%= pageName %> from './<%= pageName %>Container';
+export default <%= pageName %>;

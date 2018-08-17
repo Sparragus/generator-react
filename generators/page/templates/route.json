@@ -1,0 +1,4 @@
+{
+  "name": "<%= pageName.toLowerCase() %>",
+  "path": "/<%= pageName.toLowerCase() %>"
+}
